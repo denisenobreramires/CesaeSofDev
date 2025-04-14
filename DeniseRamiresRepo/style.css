@@ -1,14 +1,23 @@
-  
+  /* CSS media query dentro de um stylesheet */
+@media (max-width: 600px) {
+    .facet_sidebar {
+      display: none;
+    }
+
+
+  }
+
   body {
     font-family: Arial, Helvetica, sans-serif;
   }
 
-
-  /* Style the header */
-header {
-    background-color: #666;
-    padding: 30px;
-    text-align: center;
-    font-size: 35px;
-    color: white;
+  body {
+    background-color: #f5fff9; /* cinza clarinho */
   }
+
+  h3 {
+    color: rgb(82, 82, 82);
+
+
+    
+    
