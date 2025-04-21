@@ -1,0 +1,12 @@
+<style>
+  /* Altera a altura das imagens no carrossel */
+  #carouselExampleIndicators .carousel-inner img {
+    height: 500px; /* Defina a altura desejada aqui */
+    object-fit: cover; /* Ajusta a imagem para cobrir o espaço sem distorcer */
+  }
+
+  /* Caso queira definir a altura do contêiner do carrossel */
+  #carouselExampleIndicators .carousel-inner {
+    height: 500px; /* Defina a altura desejada aqui */
+  }
+</style>

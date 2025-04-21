@@ -1,0 +1,8 @@
+/* Rodapé */
+footer {
+    text-align:center;
+    margin: 2px;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
